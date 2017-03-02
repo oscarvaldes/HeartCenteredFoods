@@ -9,7 +9,7 @@ $(document).ready(function(){
     })
 
     // if(document.location.href.match(/[^\/]+$/)[0]==='index.html'){
-    //   //$('.navbar-brand').text('NIGGA');
+    //   //$('.navbar-brand').text('test');
     //   $('#current-tab').text('Home');
     // }
     // else{
