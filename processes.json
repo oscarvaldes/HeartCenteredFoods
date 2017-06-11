@@ -2,7 +2,7 @@
     {
       "apps" : [{
         "name"        : "HeartCenteredFoods",
-        "script"      : "./bin/www",
+        "script"      : "./server/bin/www",
         "watch"       : "../",
         "log_date_format"  : "YYYY-MM-DD HH:mm Z",
         "env": {
